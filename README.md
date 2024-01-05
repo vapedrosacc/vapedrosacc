@@ -9,11 +9,8 @@
   <img align="center" alt="Manu-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Manu-react" height="60" width="45"src="https://icongr.am/devicon/react-original.svg?size=128&color=000000" />
   <img align="center" alt="Manu-ts" height="40" width="40"src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="Manu-ts" height="60" width="42"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Manu-styledComponents" height="40" width="40"src="https://img.icons8.com/color/256/styled-components.png" />
-  <img align="center" alt="Manu-tailwindcss" height="45" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
-  <img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/000000/express-js.png" alt="express-js"/>
   <img align="center" width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
   <img align="center" width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
   <img align="center" width="48" height="48" src="https://img.icons8.com/color/48/000000/django.png" alt="django"/>
